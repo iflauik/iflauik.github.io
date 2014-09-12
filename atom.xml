@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://iflauik.github.io/atom.xml" rel="self"/>
   <link href="http://iflauik.github.io/"/>
-  <updated>2014-09-12T22:00:29+03:00</updated>
+  <updated>2014-09-12T23:00:05+03:00</updated>
   <id>http://iflauik.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
+    <link href="http://iflauik.github.io/blog/2014/09/12/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2014-09-12T22:36:16+03:00</updated>
+    <id>http://iflauik.github.io/blog/2014/09/12/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
