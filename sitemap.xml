@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://iflauik.github.io/blog/2014/09/14/boks-ot-anghl-box-korobka/</loc>
+    
+    <lastmod>2014-09-14T20:29:31+03:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://iflauik.github.io/blog/2014/09/13/shogun-zhdiet-tiebia/</loc>
     
     <lastmod>2014-09-13T21:19:11+03:00</lastmod>
@@ -13,35 +21,42 @@
   
   <url>
     <loc>http://iflauik.github.io/blog/</loc>
-    <lastmod>2014-09-14T18:47:31+03:00</lastmod>
+    <lastmod>2014-09-14T20:43:32+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://iflauik.github.io/blog/archives/</loc>
-    <lastmod>2014-09-14T18:47:31+03:00</lastmod>
+    <lastmod>2014-09-14T20:43:32+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://iflauik.github.io/</loc>
-    <lastmod>2014-09-14T18:47:31+03:00</lastmod>
+    <lastmod>2014-09-14T20:43:32+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://iflauik.github.io/super-awesome/</loc>
-    <lastmod>2014-09-14T18:47:31+03:00</lastmod>
+    <lastmod>2014-09-14T20:43:32+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://iflauik.github.io/kontakty/</loc>
+    <lastmod>2014-09-14T20:43:32+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://iflauik.github.io/super-awesome/page.html</loc>
-    <lastmod>2014-09-14T18:47:31+03:00</lastmod>
+    <lastmod>2014-09-14T20:43:32+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
